@@ -2,7 +2,7 @@
 
 int main()
 {
-    int var1 = 100;
+    int var1 = 100; 
     int *ptr_var1 = &var1;
     int **pptr_var1 = &ptr_var1;
     // std stand for "Standard Library" and `cout` means "character out" wich is used to print sth in screen
